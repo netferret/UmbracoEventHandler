@@ -3,7 +3,7 @@ Description
 Builds structure for events, news and blogs or anything else with the given alias prefix for umbraco.
 
 Why was this created and why is it needed?
-uDateFoldersy wasnt working as I expected.  Instead of unpicking the various events etc, it was easier to just create my own implimentation from scratch.  This was also to ensure that it was compatible with umkbraco 7.4.3.
+uDateFoldersy wasnt working as I expected.  Instead of unpicking the various events etc, it was easier to just create my own implimentation from scratch.  This was also to ensure that it was compatible with umbraco 7.4.3.
 
 Takes alias prefixes for contenttypes and then itterates through them to put the them into the correct day node.
 
